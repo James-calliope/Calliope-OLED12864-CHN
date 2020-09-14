@@ -4,7 +4,7 @@
 * http://www.micropython.org.cn
 */
 
-//% weight=20 color=#0855AA icon="O" block="OLED12864 IIC 液晶屏模块"
+//% weight=20 color=#0855AA icon="O" block="OLED IIC 液晶屏"
 namespace OLED12864_I2C {
     let font: number[] = [];
     font[0] = 0x0022d422;

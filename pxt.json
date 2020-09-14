@@ -1,7 +1,7 @@
 {
-    "name": "OLED12864_I2C",
+    "name": "OLED12864 IIC 液晶屏模块",
     "version": "1.5.0",
-    "description": "makecode I2C OLED 128 x 64 extension for micro:bit",
+    "description": "OLED12864 IIC 液晶屏模块扩展库汉化版",
     "license": "MIT",
     "dependencies": {
         "core": "*"
